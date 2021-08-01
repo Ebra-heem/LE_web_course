@@ -1,0 +1,10 @@
+Images Source:
+1. https://www.freepik.com/
+2. https://unsplash.com/
+3. https://undraw.co/illustrations
+
+Addons:
+1.ColorZilla
+link: https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en
+2.Lightshot (screenshot tool)
+link: https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp?hl=en
