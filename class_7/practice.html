@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin:0;
+            box-sizing:border-box;
+        }
+        html, body {
+            height: 100%;
+        }
+        body {
+            margin: 0;
+        }
+        .container{
+            height:100%;
+            display:flex;
+            align-items:center;
+            justify-content:center;
+        }
+        #grad1{
+            width:400px;
+            height:300px;
+            border:1px solid black;
+            background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
+        }
+       </style>
+</head>
+<body>
+    <div class="container">
+        <div id="grad1"></div>
+    </div>
+</body>
+</html>

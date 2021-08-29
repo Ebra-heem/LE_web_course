@@ -12,20 +12,17 @@ img{
     width:100%;
 }
 .main{
-    width:100%;
+    display:flex;
 }
 
 .left{
-    width:50%;
+   width:50%;
+   height: 50%;
     
 }
 
 .right{
-    width:50%;
-    height:500px;
-    float:right;
-    background-color: aqua;
-    margin-top: -510px;
+   
 }
 
 .menu{
